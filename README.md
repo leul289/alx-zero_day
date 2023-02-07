@@ -1,1 +1,1 @@
-My first readme
+coding is hard work
